@@ -32,19 +32,11 @@ Enrollments
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/sql-course-management.git
-   ```
+   https://github.com/Myra-Makeba/Course_Management_System.git
 
 2. Open your SQL client and run:
 
-    `create_tables.sql`
-    `insert_data.sql`
-    `queries.sql` for reports and analysis
-
-3. (Optional) Run `advanced_features.sql` for view, index, and triggers.
-
-
+   * Course_Management_System.sql
 
 ## 📈 Key SQL Queries
 
@@ -90,6 +82,8 @@ INDEX: on `Enrollments.student_id`
 
 ## 🔗 Repository Link
 
-Paste your public GitHub repository link here after uploading.
+https://github.com/Myra-Makeba/Course_Management_System.git
 
-
+## Authored by:
+Myra Makeba
+07/05/2025.
